@@ -1,0 +1,5 @@
+TagCoin-qt usr/bin
+share/pixmaps/TagCoin32.xpm usr/share/pixmaps
+share/pixmaps/TagCoin80.xpm usr/share/pixmaps
+debian/TagCoin-qt.desktop usr/share/applications
+debian/TagCoin-qt.protocol usr/share/kde4/services/

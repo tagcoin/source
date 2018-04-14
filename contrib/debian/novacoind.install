@@ -1,0 +1,2 @@
+debian/bin/TagCoind usr/bin
+src/TagCoind usr/lib/TagCoin

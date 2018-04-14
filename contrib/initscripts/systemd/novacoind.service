@@ -1,0 +1,11 @@
+[Unit]
+Description=TagCoin daemon serivce
+After=network.target
+
+[Service]
+Type=simple
+User=TagCoin
+ExecStart=/opt/TagCoin/TagCoind
+
+[Install]
+WantedBy=multi-user.target

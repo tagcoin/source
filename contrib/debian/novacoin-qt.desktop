@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=TagCoin
+Comment=TagCoin P2P Cryptocurrency
+Comment[ru]=TagCoin, P2P криптовалюта
+Comment[fr]=TagCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=TagCoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/TagCoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/TagCoin80.xpm
+MimeType=x-scheme-handler/TagCoin;
+Categories=Office;
